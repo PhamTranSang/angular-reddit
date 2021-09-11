@@ -43,3 +43,11 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# hidden something
+.browserslistrc
+.editorconfig
+karma.conf.js
+package-lock.json
+package.json
+tsconfig.*
